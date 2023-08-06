@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div id="perimeter"
+		<!-- your favorite animal's name goes here -->
+		<h3>Ili Pika</h3>
+		<!-- your favorite animal's image goes here -->
+		<img id="Ilipic" src="placeholder.png" alt="Ili Pika">
+		<div id="inner"
+			<!-- your favorite animal's interesting fact goes here -->
+			<p id="about">This furry ball of cuteness is an endangered mammal closely related to rabbits and hares. The species was first discovered in 1983 and individuals have rarely been seen since.</em></p>
+			<ul id="bullet"
+				<!-- your favorite animal's list items go here -->
+				<li><span class="lists">Species</span>: Ochotona Iliensis</li>
+				<li><span class="lists">Length</span>: 20.4 CM</li>
+				<li><span class="lists">Life Span</span>: 7 Years</li>
+				<li><span class="lists">Population Size</span>: Less than 1,000</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p id="details">The Ili pika inhabits talus slopes at high elevations, usually from about 2,800 to 4,100 meters.This species constructs haypiles and is a generalized herbivore. It primarily feeds on grasses and herbs and occupies slightly sloping high rock walls or cliff faces interlaced with gaps or holes that serve as dens. The Ili pika has low population densities and is mostly a diurnal species, but may exhibit nocturnal activity.</p>
+		</div>
+	</div>
+</body>
+</html>
